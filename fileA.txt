@@ -1,5 +1,1 @@
-<<<<<<< 2d09a0514997d6cf297c08e7753d97f0e487cd8b
-"feature 1 with 1 bug" 
-=======
-"feature 1 with 1 bug, feature 2 wip" 
->>>>>>> feature 2 wip
+"feature 1" 
