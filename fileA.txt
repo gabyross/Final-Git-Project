@@ -1,1 +1,5 @@
+<<<<<<< 48030585c69a278444e8a888d4cca4bbe554125d
 "feature 1" 
+=======
+"feature 1 with, feature 2 wip" 
+>>>>>>> feature 2 wip
